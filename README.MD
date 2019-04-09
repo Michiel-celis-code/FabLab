@@ -15,8 +15,7 @@ Of is jouw project enorm geliked of gedownload ?
 Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
 ### Een Account, Een Wallet
-**Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
-
+**Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.        **
 Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
 
 ### QR app of NFC kaart
