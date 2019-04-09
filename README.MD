@@ -33,6 +33,7 @@
 __Oh Nee, social Credits zoals in china !__
 > Geen zorgen,
 > Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
+![FABCREDIT](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/FABCOIN.png "FabCredit")
 ___
 
 ## Wat betekend dit ?
