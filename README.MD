@@ -1,11 +1,11 @@
 # Fablab Social Credits
-**fablabgenk.be** wordt binnekort een sociaal interactief platform.
-Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
-Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
+> **fablabgenk.be** wordt binnekort een sociaal interactief platform.
+> Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
+> Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
 
 __Oh Nee, social Credits zoals in china !__
-Geen zorgen,
-Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
+> Geen zorgen,
+> Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 
 ## Wat Betekend Dit ?
 **Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
