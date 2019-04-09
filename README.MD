@@ -130,7 +130,6 @@ ___
 | ▌ **Purchases**             |                 |                                    |
 | Per euro materiaal          | ```+ 1```       |                                    |
 | ⁪                                                                                   |
-![FABCREDIT ><](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/FABCOIN.png "FabCredit")
 ___
 
 # Fablab Social Platform
