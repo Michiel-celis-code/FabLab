@@ -38,14 +38,13 @@ __Oh Nee, social Credits zoals in china !__
 > Hoe verdien je punten ?
 
 ### Milestones
-- ```+ 50``` :  Aanmaken van je account
-
-- ```+ 10``` :  Je eerste Post
-- ```+ 50``` :  5 Posts
-- ```+ 100```:  10 Posts
-- ```+ 250```:  25 Posts
-- ```+ 500```:  50 Posts
-- ```+ 1000```:  100 Posts
+|Aanmaken van je account | ```+ 50``` 
+|Je eerste Post | ```+ 10``` |
+|5 Posts | ```+ 50``` |
+|10 Posts | ```+ 100``` |
+|25 Posts | ```+ 250``` |
+|50 Posts | ```+ 500``` |
+|100 Posts | ```+ 1000``` |
 
 - Per Jaar lid            : ```+ 50``` ( MUTED if creditstatus > 500 )
 - Per Verjaardag          : ```+ 50``` ( MUTED if creditstatus > 500 )
