@@ -1,3 +1,10 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 # Fablab Social Credits
 > **fablabgenk.be** wordt binnekort een sociaal interactief platform.
 > Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
@@ -103,4 +110,4 @@ ___
 
 ___
 
-## 
+# Fablab Social Platform
