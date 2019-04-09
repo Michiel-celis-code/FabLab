@@ -1,5 +1,8 @@
-##### Table of Contents  
-[Fablab Social Credits](#FablabSocialCredits)  
+# Table of Contents
+
+1. [Fablab Social Credits](#Fablab-Social-Credits)
+2. [Fablab Social Platform](#Fablab-Social-Platform)
+
    
 
 
