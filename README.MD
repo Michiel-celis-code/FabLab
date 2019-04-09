@@ -71,6 +71,7 @@ _deze uitrijking gebeurd na goedkeuring van de vrager_
 _deze uitrijking gebeurd na voldoende upvotes en verstreken tijd_
 
 **Bij vrije gift**
+
 Je kan credits sturen om elkaar te bedanken.
 - Gift                    : ```+ 5 + 10 +20 +50```
 _deze transacties worden bijgehouden om misbruik te vermijden, Je zult maximaal 50 Credits per week kunnen versturen_
