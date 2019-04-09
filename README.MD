@@ -13,7 +13,7 @@ __Oh Nee, social Credits zoals in china !__
 > Krijg je hulp van iemand en wil je die bedanken ?
 > Of is jouw project enorm geliked of gedownload ?
 
-> Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
+Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
 ### Een Account, Een Wallet
 > **Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
