@@ -26,12 +26,14 @@ Wat kost wat ?!?!
 - Normaal Machinegebruik  : ```-1 / 5min```
 - Machine Reserveren      : ```-1 / 3min```
 
-Machine reserveren :
+### Machine reserveren :
+```
 Minstends 24u op voorhand, en vooraf betaald, niet tijdig (15min eerder) locaal aanmelden steld de machine vrij voor 30min die doorlopend zijn tot aanmelding.
 Ben je te laat, en meld je je aan, zul je dus 30min moeten wachten om je reservatierecht te kunnen innen.
 Deze wachtijd wordt uitgebreid wanneer een opdracht die eerder als je aanmelding gestart is nog uitgevoerd wordt door de machine.
 Zo kunnen anderen de machine toch nog doorgebruiken moest je niet aanwezig kunnen zijn.
 Wees dus optijd als je reserveerd, of bereid om punten te verliezen.
+```
 
 ## Punten ++
 Hoe verdien je punten ?
