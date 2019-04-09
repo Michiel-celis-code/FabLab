@@ -61,9 +61,9 @@ __Oh Nee, social Credits zoals in china !__
 | ▌ **Likes**                 |                 |                                    |
 | per like op jouw post       | ```+ 1```       |                                    |
 | ⁪                                                                                   |
-| Top liked deze week         | ```+ ```        | _eenmalig te verdienen per post_   |
-| Top liked deze maand        | ```+ ```        | _eenmalig te verdienen per post_   |
-| Top liked dit jaar          | ```+ ```        | _eenmalig te verdienen per post_   |
+| Top liked deze week         | ```+ 10```      | _eenmalig te verdienen per post_   |
+| Top liked deze maand        | ```+ 50```      | _eenmalig te verdienen per post_   |
+| Top liked dit jaar          | ```+ 250```     | _eenmalig te verdienen per post_   |
 | ⁪                                                                                   |
 | ▌ **Assistance**            |                 |                                    |
 | Goedgekeurd antwoord        | ```+ 25```      | _deze uitrijking gebeurd na goedkeuring van de vrager_ |
