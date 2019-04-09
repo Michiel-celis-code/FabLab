@@ -1,9 +1,7 @@
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+[Headers](#Fablab Social Credits)  
+   
+
 
 # Fablab Social Credits
 > **fablabgenk.be** wordt binnekort een sociaal interactief platform.
