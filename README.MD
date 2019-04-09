@@ -44,6 +44,7 @@ __Oh Nee, social Credits zoals in china !__
 | Beschrijving > 200 char     | ```+ 5```       |                                    |
 | 4 of meer foto's            | ```+ 10```      |                                    |
 | Technical drawings          | ```+ 25```      |                                    |
+|                                                                                    |
 | **Milestones**              |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Aanmaken van je account     | ```+ 50```      |                                    |
@@ -53,10 +54,10 @@ __Oh Nee, social Credits zoals in china !__
 | 25 Posts                    | ```+ 250```     |                                    |
 | 50 Posts                    | ```+ 500```     |                                    |
 | 100 Posts                   | ```+ 1000```    |                                    |
-|                             |                 |                                    |
+|                                                                                    |
 | Per Jaar lid                | ```+ 50```      | _Niet als creditstatus > 500_      |
 | Per Verjaardag              | ```+ 50```      | _Niet als creditstatus > 500_      |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Likes**                   |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | per like op jouw post       | ```+ 1```       |                                    |
@@ -64,32 +65,33 @@ __Oh Nee, social Credits zoals in china !__
 | Top liked deze week         | ```+ ```        | _eenmalig te verdienen per post_   |
 | Top liked deze maand        | ```+ ```        | _eenmalig te verdienen per post_   |
 | Top liked dit jaar          | ```+ ```        | _eenmalig te verdienen per post_   |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Assistance**              |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Goedgekeurd antwoord        | ```+ 25```      | _deze uitrijking gebeurd na goedkeuring van de vrager_ |
 | Upvoted antwoord            | ```+ 25```      | _deze uitrijking gebeurd na voldoende upvotes en verstreken tijd_ |
 | Gift                        | ```+ 5,10,20``` | _Je zult maximaal 50 Credits per week kunnen versturen_ |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Inclusion**               |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Nieuw lid toevoegen         | ```+ 50```      | _Lid Toevoegen aan Fablab door jouw referentie QR_ |
 | Partner Up!                 | ```+ 15```      | _Lid Toevoegen aan je Project (Beide krijgen deze beloning)_ |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Social Media**            |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Je Project delen            | ```+ 5```       |                                    |
 | per bezoeker die aantrekt   | ```+ 1```       |                                    |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Easter Eggs**             |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Het groen-paarse ei         | ```+ 100```     |                                    |
 | Het blauw-witte ei          | ```+ 250```     |                                    |
 | Het zwart-goude ei          | ```+ 500```     |                                    |
-| :-------------------------- | ---------------:| ----------------------------------:|
+|                                                                                    |
 | **Purchases**               |                 |                                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
 | Per euro materiaal          | ```+ 1```       |                                    |
+|                                                                                    |
 
 
 ### Assistance
