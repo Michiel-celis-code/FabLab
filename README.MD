@@ -38,8 +38,8 @@ __Oh Nee, social Credits zoals in china !__
 > Hoe verdien je punten ?
 
 |                             | **Reward**      | **Description**                    |
-| **Post Completion**         |                 |                                  █ |
 | :-------------------------- | ---------------:| ----------------------------------:|
+| **Post Completion**         |                 |                                  █ |
 | Per post                    | ```+ 25```      | _Benodigdheden : Titel, Beschrijving +50char, minimaal 1 foto_ |
 | Beschrijving > 100 char     | ```+ 5```       |                                    |
 | Beschrijving > 200 char     | ```+ 5```       |                                    |
