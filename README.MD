@@ -1,11 +1,11 @@
 # Table of Contents
 
 1. [Fablab Social Credits](#Fablab-Social-Credits)
-   - [Wat betekend dit](#Wat-betekend-dit-?)
-   - [Een account, Een wallet](#Een-account,-Een-wallet)
+   - [Wat betekend dit](#Wat-betekend-dit)
+   - [Een account, Een wallet](#Een-account-Een-wallet)
    - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
    - [Punten --](#Punten---)
-   - [Punten ++](#Punten-++)
+   - [Punten ++](#Punten++)
 2. [Fablab Social Platform](#Fablab-Social-Platform)
 
    
