@@ -46,6 +46,9 @@ Hoe verdien je punten ?
 - 50 Posts                : ```+ 500```
 - 100 Posts               : ```+ 1000```
 
+- Per Jaar lid            : ```+ 50``` ( MUTED if creditstatus > 500 )
+- Per Verjaardag          : ```+ 50``` ( MUTED if creditstatus > 500 )
+
 ### Posts Completion
 - Per post                : ```+ 25```
 _Benodigdheden : Titel, Beschrijving +50char, minimaal 1 foto_
@@ -75,3 +78,14 @@ _deze uitrijking gebeurd na voldoende upvotes en verstreken tijd_
 Je kan credits sturen om elkaar te bedanken.
 - Gift                    : ```+ 5 + 10 +20 +50```
 _deze transacties worden bijgehouden om misbruik te vermijden, Je zult maximaal 50 Credits per week kunnen versturen_
+
+### Door nieuwe leden aan te werven
+- Nieuw lid door jouw referentie : ```+ 50```
+
+### Door Coupons, Easter Eggs
+- QR coupons met waarde   : ```+10 +20 +50```
+- QR 'Easter Eggs'        : ```+100 +250 +500```
+
+### Bij de aankoop van materialen
+- Per euro                : ```+ 1```
+
