@@ -5,7 +5,7 @@
    - [Een account, Een wallet](#Een-account-Een-wallet)
    - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
    - [Punten --](#Punten---)
-   - [Punten ++](#Punten)
+   - [Punten ++](#Punten%20++)
 2. [Fablab Social Platform](#Fablab-Social-Platform)
 
    
