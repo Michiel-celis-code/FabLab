@@ -38,6 +38,8 @@ __Oh Nee, social Credits zoals in china !__
 > Hoe verdien je punten ?
 
 ### Milestones
+|||
+|------------------------|------------|
 |Aanmaken van je account | ```+ 50``` 
 |Je eerste Post | ```+ 10``` |
 |5 Posts | ```+ 50``` |
