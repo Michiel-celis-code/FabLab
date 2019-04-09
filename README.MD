@@ -8,21 +8,21 @@ __Oh Nee, social Credits zoals in china !__
 > Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 
 ## Wat Betekend Dit ?
-**Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
-Krijg je hulp van iemand en wil je die bedanken ?
-Of is jouw project enorm geliked of gedownload ?
+> **Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
+> Krijg je hulp van iemand en wil je die bedanken ?
+> Of is jouw project enorm geliked of gedownload ?
 
-Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
+> Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
 ### Een Account, Een Wallet
-**Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
-Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
+> **Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
+> Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
 
 ### QR app of NFC kaart
-Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
+> Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
 
 ## Punten --
-Wat kost wat ?!?!
+> Wat kost wat ?!?!
 - Normaal Machinegebruik  : ```-1 / 5min```
 - Machine Reserveren      : ```-1 / 3min```
 
@@ -34,7 +34,7 @@ Wat kost wat ?!?!
 > Wees dus optijd als je reserveerd, of bereid om punten te verliezen.
 
 ## Punten ++
-Hoe verdien je punten ?
+> Hoe verdien je punten ?
 
 ### Milestones
 - Aanmaken van je account : ```+ 50```
