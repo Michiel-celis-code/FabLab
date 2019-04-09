@@ -4,6 +4,7 @@ Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en
 Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
 
 __Oh Nee, social Credits zoals in china !__
+Geen zorgen,
 Deze credits zijn geen sociale statustoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 
 ## Wat Betekend Dit ?
@@ -13,7 +14,7 @@ Of is jouw project enorm geliked of gedownload ?
 
 Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
-## Een Account, Een Wallet
+### Een Account, Een Wallet
 Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.
 Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
 
