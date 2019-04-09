@@ -7,6 +7,7 @@ __Oh Nee, social Credits zoals in china !__
 > Geen zorgen,
 > Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 ___
+
 ## Wat Betekend Dit ?
 > **Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
 > 
@@ -22,10 +23,9 @@ ___
 ### QR app of NFC kaart
 > Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
 ___
+
 ## Punten --
 > Wat kost wat ?!?!
-- Normaal Machinegebruik  : ```-1 / 5min```
-- Machine Reserveren      : ```-1 / 3min```
 
 |                             | **Cost**        | **Description**                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
@@ -38,6 +38,7 @@ ___
 | Ultimaker+                  | ```-1/3min```   |                                    |
 | Lasercutter                 | ```-1/3min```   |                                    |
 | CNC                         | ```-1/3min```   |                                    |
+| ⁪                                                                                   |
 
 ### Machine reserveren :
 > Minstends 24u op voorhand, en vooraf betaald, niet tijdig (15min eerder) lokaal aanmelden steld de machine vrij voor 30min die doorlopend zijn tot aanmelding.
@@ -46,6 +47,7 @@ ___
 > Zo kunnen anderen de machine toch nog doorgebruiken moest je niet aanwezig kunnen zijn.
 > Wees dus optijd als je reserveerd, of bereid om punten te verliezen.
 ___
+
 ## Punten ++
 > Hoe verdien je punten ?
 
@@ -99,4 +101,6 @@ ___
 | Per euro materiaal          | ```+ 1```       |                                    |
 | ⁪                                                                                   |
 
+___
 
+## 
