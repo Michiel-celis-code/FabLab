@@ -29,11 +29,10 @@
 > **fablabgenk.be** wordt binnekort een sociaal interactief platform.
 > Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
 > Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
-
+![FABCREDIT](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/FABCOIN.png "FabCredit")
 __Oh Nee, social Credits zoals in china !__
 > Geen zorgen,
 > Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
-![FABCREDIT](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/FABCOIN.png "FabCredit")
 ___
 
 ## Wat betekend dit ?
