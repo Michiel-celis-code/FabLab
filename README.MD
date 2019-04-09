@@ -4,8 +4,8 @@
    - [Wat betekend dit ?](#Wat-betekend-dit-?)
    - [Een account, Een wallet](#Een-account-Een-wallet)
    - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
-   - [Punten --](#Punten---)
-   - [Punten ++](#Punten%20++)
+   - [Credits --](#Credits-verbruiken)
+   - [Credits ++](#Credits-verdienen)
 2. [Fablab Social Platform](#Fablab-Social-Platform)
 
    
@@ -37,7 +37,7 @@ ___
 > Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
 ___
 
-## Punten --
+## Credits Verbruiken
 > Wat kost wat ?!?!
 
 |                             | **Cost**        | **Description**                    |
@@ -61,8 +61,8 @@ ___
 > Wees dus optijd als je reserveerd, of bereid om punten te verliezen.
 ___
 
-## Punten ++
-> Hoe verdien je punten ?
+## Credits verdienen
+> Hoe verdien je Credits ?
 
 |                             | **Reward**      | **Description**                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
