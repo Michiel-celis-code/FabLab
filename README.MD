@@ -4,10 +4,24 @@
    - [Wat betekend dit ?](#Wat-betekend-dit-?)
    - [Een account, Een wallet](#Een-account-Een-wallet)
    - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
-   - [Credits --](#Credits-verbruiken)
-   - [Credits ++](#Credits-verdienen)
+   - [Credits verbruiken](#Credits-verbruiken)
+   - [Credits verdienen](#Credits-verdienen)
+   
 2. [Fablab Social Platform](#Fablab-Social-Platform)
+   - [Persoonlijke toolkit](#Persoonlijk-toolkit)
+   - [Gedeelde Ruimte](#Gedeelde-ruimte)
+   - [Interactie met de wereld](#Interactie-met-de-wereld)
+   
+3. [---](#---)
+   - [---](#---)
+   - [---](#---)
+   
+4. [---](#---)
+   - [---](#---)
 
+5. [---](#---)
+   - [---](#---)
+ 
    
 
 
