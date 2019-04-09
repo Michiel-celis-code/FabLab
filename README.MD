@@ -123,9 +123,9 @@ ___
 | per bezoeker die aantrekt   | ```+ 1```       |                                    |
 | ⁪                                                                                   |
 | ▌ **Easter Eggs**           |                 |                                    |
-| Het groen-paarse ei         | ```+ 100```     |                                    |
-| Het blauw-witte ei          | ```+ 250```     |                                    |
-| Het zwart-goude ei          | ```+ 500```     |                                    |
+| Groen-paarse ei             | ```+ 100```     |                                    |
+| Blauw-witte ei              | ```+ 250```     |                                    |
+| Zwart-goude ei              | ```+ 500```     |                                    |
 | ⁪                                                                                   |
 | ▌ **Purchases**             |                 |                                    |
 | Per euro materiaal          | ```+ 1```       |                                    |
