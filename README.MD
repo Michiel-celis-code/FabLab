@@ -1,7 +1,8 @@
 # Social Credits
-**```fablabgenk.be``` wordt binnekort een sociaal interactief platform, dat gebruikt maakt van een _creditsysteem_ !**
+```fablabgenk.be``` wordt binnekort een sociaal interactief platform, Waarop de gebruikers hun projecten kunnen delen en beheeren.
+
 
 ## Wat Betekend Dit ?
-**Je zal op vershillende manieren credits kunnen verdienen, die je dan weer kan inzetten om jouw projecten waar te maken**
+Je zal op vershillende manieren credits kunnen verdienen, die je dan weer kan inzetten om jouw projecten waar te maken
 
 ##
