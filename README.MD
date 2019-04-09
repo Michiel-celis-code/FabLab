@@ -1,6 +1,11 @@
 # Table of Contents
 
 1. [Fablab Social Credits](#Fablab-Social-Credits)
+   - [Wat betekend dit](#Wat-betekend-dit-?)
+   - [Een account, Een wallet](#Een-account,-Een-wallet)
+   - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
+   - [Punten --](#Punten---)
+   - [Punten ++](#Punten-++)
 2. [Fablab Social Platform](#Fablab-Social-Platform)
 
    
@@ -16,7 +21,7 @@ __Oh Nee, social Credits zoals in china !__
 > Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 ___
 
-## Wat Betekend Dit ?
+## Wat betekend dit ?
 > **Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
 > 
 > Krijg je hulp van iemand en wil je die bedanken ?
@@ -24,7 +29,7 @@ ___
 > 
 > Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
-### Een Account, Een Wallet
+### Een account, Een wallet
 > **Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
 > Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
 
