@@ -49,6 +49,8 @@ ___
 
 ### QR app of NFC kaart
 > Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
+
+![QR NFC](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/QRNFC.png "NFC kaart of QR App")
 ___
 
 ## Credits Verbruiken
