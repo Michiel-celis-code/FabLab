@@ -9,6 +9,7 @@ __Oh Nee, social Credits zoals in china !__
 
 ## Wat Betekend Dit ?
 > **Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
+> 
 > Krijg je hulp van iemand en wil je die bedanken ?
 > Of is jouw project enorm geliked of gedownload ?
 
