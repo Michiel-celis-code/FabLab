@@ -68,13 +68,13 @@ _Benodigdheden : Titel, Beschrijving +50char, minimaal 1 foto_
 _deze uitrijkingen zijn elk eenmalig te verdienen per post_
 
 ### Assistance
-#### Bij vraagstellingen opm het platform
+> Bij vraagstellingen op het platform
 - Goedgekeurd antwoord    : ```+ 25```
 _deze uitrijking gebeurd na goedkeuring van de vrager_
 - Upvoted antwoord        : ```+ 25```
 _deze uitrijking gebeurd na voldoende upvotes en verstreken tijd_
 
-#### Je kan credits sturen om elkaar te bedanken
+> Je kan credits sturen om elkaar te bedanken
 - Gift                    : ```+ 5 + 10 +20 +50```
 _deze transacties worden bijgehouden op een ledger om misbruik te vermijden, Je zult maximaal 50 Credits per week kunnen versturen_
 
