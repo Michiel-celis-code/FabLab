@@ -87,13 +87,10 @@ __Oh Nee, social Credits zoals in china !__
 | Het groen-paarse ei         | ```+ 100```     |                                    |
 | Het blauw-witte ei          | ```+ 250```     |                                    |
 | Het zwart-goude ei          | ```+ 500```     |                                    |
-
 | --------------------------  | --------------- | ---------------------------------- |
 | **Purchases**               | **Reward**      | **Description**                    |
 | --------------------------  | --------------- | ---------------------------------- |
 | Per euro materiaal          | ```+ 1```       |                                    |
-|      | ```+ ```    |                                    |
-|      | ```+ ```    |                                    |
 
 
 ### Assistance
