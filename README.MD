@@ -8,14 +8,14 @@ Geen zorgen,
 Deze credits zijn geen sociale statustoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 
 ## Wat Betekend Dit ?
-Je zal op vershillende manieren credits kunnen verdienen, die je dan weer kan inzetten om jouw projecten waar te maken.
+**Je zal op vershillende manieren credits kunnen verdienen**, die je dan weer kan inzetten om jouw projecten waar te maken.
 Krijg je hulp van iemand en wil je die bedanken ?
 Of is jouw project enorm geliked of gedownload ?
 
 Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
 
 ### Een Account, Een Wallet
-Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.
+**Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
 Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
 
 ### QR app of NFC kaart
