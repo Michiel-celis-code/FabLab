@@ -1,10 +1,10 @@
 # Social Credits
 **Fablab Genk's Website wordt binnekort een sociaal interactief platform, dat gebruikt maakt van een _creditsysteem_ !**
 
-# Social Credits
+## Social Credits
 **Fablab Genk's Website wordt binnekort een sociaal interactief platform, dat gebruikt maakt van een _creditsysteem_ !**
 
-# Social Credits
+## Social Credits
 **Fablab Genk's Website wordt binnekort een sociaal interactief platform, dat gebruikt maakt van een _creditsysteem_ !**
 
 ## Wat Betekend Dit ?
