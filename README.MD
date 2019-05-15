@@ -144,21 +144,13 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
-| Section                     | **Page**        | **Description**                    |
-| :-------------------------- | ---------------:| ----------------------------------:|
-| ▌ **Feed**                  |  Home           |                                    |
-|                             |  Trending       |                                    |
-|                             |  Following      |                                    |
-| ⁪                                                                                   |
-| ▌ **Machine Reservation**   |                 |                                    |
-| Ultimaker+                  | ```-1/3min```   |                                    |
-| Lasercutter                 | ```-1/3min```   |                                    |
-| CNC                         | ```-1/3min```   |                                    |
-| ⁪                                                                                   |
 * Home
+	---
 > Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 > De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
+
 * Trending
+	---
 > De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
 * Following
 > Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
