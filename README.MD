@@ -145,58 +145,83 @@ ___
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
 <details><summary>Home</summary><p>
-> Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
-> De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
+```
+Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
+De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
+```
 </p></details>
 
 <details><summary>Trending</summary><p>
-> De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
+```
+De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
+```
 </p></details>
 
 <details><summary>Following</summary><p>
-> Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
+```
+Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
+```
 </p></details>
 
 ##### Create
 <details><summary>Tutorials</summary><p>
--- ontwerpen / 2D 3D
--- keuze van prototyping technieken / Limieten per techniek
--- Keuze van Machine
--- Keuze van materialen / Abstract met voorbeelden REF Materialen
--- Afwerking prototype
+```
+- ontwerpen / 2D 3D
+- keuze van prototyping technieken / Limieten per techniek
+- Keuze van Machine
+- Keuze van materialen / Abstract met voorbeelden REF Materialen
+- Afwerking prototype
+```
 </p></details>
-
 <details><summary>Materialen</summary><p>
--- Plaatmaterialen
--- 
--- Filament
+```
+- Plaatmaterialen
+- 
+- Filament
+```
 </p></details>
 
 <details><summary>Machines</summary><p>
+```
 --
 --
 --
 --
 --
 --
+```
 </p></details>
 
 ##### Local
 <details><summary>Visit</summary><p>
+```
+```
 </p></details>
 <details><summary>Calendar</summary><p>
+```
+```
 </p></details>
 <details><summary>Contact</summary><p>
+```
+```
 </p></details>
 
 ##### Guide
 <details><summary>Settings</summary><p>
+```
+```
 </p></details>
 <details><summary>Help</summary><p>
+```
+```
 </p></details>
 <details><summary>Information</summary><p>
+```
+```
 </p></details>
 <details><summary>Feedback</summary><p>
+```
+```
 </p></details>
 
 
