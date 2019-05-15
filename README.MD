@@ -148,6 +148,7 @@ ___
 >
 > bovenaan wat nieuw of belangrijk is onderaan wat bijkomstig is.
 
+## Onderdelen
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
