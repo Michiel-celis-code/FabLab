@@ -145,13 +145,33 @@ ___
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
 * Home
+> Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
+> De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
 * Trending
+> De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
 * Following
+> Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
 
 ##### Create
 * Tutorials
-* Materials
+-- ontwerpen / 2D 3D
+-- keuze van prototyping technieken / Limieten per techniek
+-- Keuze van Machine
+-- Keuze van materialen / Abstract met voorbeelden REF Materialen
+-- Afwerking prototype
+
+* Materialen
+-- Plaatmaterialen
+-- 
+-- Filament
+
 * Machines
+--
+--
+--
+--
+--
+--
 
 ##### Local
 * Visit
@@ -176,4 +196,6 @@ ___
 
 
 ### Interactie met de wereld
+
+## Ontwerp
 
