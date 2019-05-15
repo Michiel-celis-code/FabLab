@@ -140,6 +140,7 @@ ___
 > Rechts komt wat persoonlijk is (bv: Jouw Projecten, of je persoonlijke settings, profiel etc.
 >
 > bovenaan wat belangrijk of nieuw is onderaan wat bijkomstig is.
+
 ### Gedeelde Ruimte
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
@@ -219,10 +220,7 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 ```
 ```
 </p></details>
-<details><summary>Feedback</summary><p>
-```
-```
-</p></details>
+<details><summary>Feedback</summary></details>
 
 
 ### Persoonlijke toolkit
