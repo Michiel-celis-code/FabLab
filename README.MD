@@ -144,60 +144,60 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
-<details><summary>Home</summary>
+<details><summary>Home</summary><p>
 > Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 > De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
-</details>
+</p></details>
 
-<details><summary>Trending</summary>
+<details><summary>Trending</summary><p>
 > De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
-</details>
+</p></details>
 
-<details><summary>Following</summary>
+<details><summary>Following</summary><p>
 > Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
-</details>
+</p></details>
 
 ##### Create
-<details><summary>Tutorials</summary>
+<details><summary>Tutorials</summary><p>
 -- ontwerpen / 2D 3D
 -- keuze van prototyping technieken / Limieten per techniek
 -- Keuze van Machine
 -- Keuze van materialen / Abstract met voorbeelden REF Materialen
 -- Afwerking prototype
-</details>
+</p></details>
 
-<details><summary>Materialen</summary>
+<details><summary>Materialen</summary><p>
 -- Plaatmaterialen
 -- 
 -- Filament
-</details>
+</p></details>
 
-<details><summary>Machines</summary>
+<details><summary>Machines</summary><p>
 --
 --
 --
 --
 --
 --
-</details>
+</p></details>
 
 ##### Local
-<details><summary>Visit</summary>
-</details>
-<details><summary>Calendar</summary>
-</details>
-<details><summary>Contact</summary>
-</details>
+<details><summary>Visit</summary><p>
+</p></details>
+<details><summary>Calendar</summary><p>
+</p></details>
+<details><summary>Contact</summary><p>
+</p></details>
 
 ##### Guide
-<details><summary>Settings</summary>
-</details>
-<details><summary>Help</summary>
-</details>
-<details><summary>Information</summary>
-</details>
-<details><summary>Feedback</summary>
-</details>
+<details><summary>Settings</summary><p>
+</p></details>
+<details><summary>Help</summary><p>
+</p></details>
+<details><summary>Information</summary><p>
+</p></details>
+<details><summary>Feedback</summary><p>
+</p></details>
 
 
 ### Persoonlijke toolkit
