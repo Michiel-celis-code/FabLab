@@ -144,48 +144,60 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
-* Home
-	---
+<details><summary>* Home</summary>
 > Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 > De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
+</details>
 
-* Trending
-	---
+<details><summary>* Trending</summary>
 > De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
-* Following
-> Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
+</details>
 
+> De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
+<details><summary>* Following</summary>
+> Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
+</details>
 ##### Create
-* Tutorials
+<details><summary>* Tutorials</summary>
 -- ontwerpen / 2D 3D
 -- keuze van prototyping technieken / Limieten per techniek
 -- Keuze van Machine
 -- Keuze van materialen / Abstract met voorbeelden REF Materialen
 -- Afwerking prototype
+</details>
 
-* Materialen
+<details><summary>* Materialen</summary>
 -- Plaatmaterialen
 -- 
 -- Filament
+</details>
 
-* Machines
+<details><summary>* Machines</summary>
 --
 --
 --
 --
 --
 --
+</details>
 
 ##### Local
-* Visit
-* Calendar
-* Contact
+<details><summary>* Visit</summary>
+</details>
+<details><summary>* Calendar</summary>
+</details>
+<details><summary>* Contact</summary>
+</details>
 
 ##### Guide
-* Settings
-* Help
-* Information
-* Feedback
+<details><summary>* Settings</summary>
+</details>
+<details><summary>* Help</summary>
+</details>
+<details><summary>* Information</summary>
+</details>
+<details><summary>* Feedback</summary>
+</details>
 
 
 ### Persoonlijke toolkit
