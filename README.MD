@@ -2,29 +2,20 @@
 
 1. [Fablab Social Credits](#Fablab-Social-Credits)
    - [Wat betekend dit ?](#Wat-betekend-dit-?)
-   - [Een account, Een wallet](#Een-account-Een-wallet)
-   - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
+      - [Een account, Een wallet](#Een-account-Een-wallet)
+      - [QR app of NFC kaart](#QR-app-of-NFC-kaart)
    - [Credits verbruiken](#Credits-verbruiken)
    - [Credits verdienen](#Credits-verdienen)
    
 2. [Fablab Social Platform](#Fablab-Social-Platform)
-   - [Persoonlijke toolkit](#Persoonlijk-toolkit)
-   - [Gedeelde Ruimte](#Gedeelde-ruimte)
-   - [Interactie met de wereld](#Interactie-met-de-wereld)
+   - [Onderdelen](#Onderdelen)
+      - [Gedeelde Ruimte](#Gedeelde-ruimte)
+      - [Persoonlijke toolkit](#Persoonlijk-toolkit)
+      - [Interactie met de wereld](#Interactie-met-de-wereld)
+   - [Ontwerp](#Ontwerp)
    
-3. [---](#---)
-   - [---](#---)
-   - [---](#---)
    
-4. [---](#---)
-   - [---](#---)
-
-5. [---](#---)
-   - [---](#---)
- 
    
-
-
 # Fablab Social Credits
 > **fablabgenk.be** wordt binnekort een sociaal interactief platform.
 >
@@ -139,16 +130,20 @@ ___
 ___
 
 # Fablab Social Platform
-> Een Goede user interface heeft geen uitleg nodig, omdat het gebruikt maakt van de gewoontes die je al hebt aangeleerd.
->
-> Daarom laat het ontwerp van de site zich vormen door enkele gewone opdelingen.
->
-> Links komen publieke/gedeelde/openbare elementen of verwijzingen
-> Rechts komt wat persoonlijk is.
->
-> bovenaan wat nieuw of belangrijk is onderaan wat bijkomstig is.
 
 ## Onderdelen
-![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
+> Een Goede user interface heeft geen uitleg nodig, omdat het gebruikt maakt van de gewoontes die je al hebt aangeleerd.
+>
+> Daarom laat het ontwerp van de site zich vormen door opdelingen die voorkomen op veel gebruikte sites/apps.
+>
+> Links komen publieke/gedeelde/openbare elementen of verwijzingen (bv: Navigatie van de site, of De persoon(en) waarmee u chat)
+> Rechts komt wat persoonlijk is (bv: Jouw Projecten, of je persoonlijke settings, profiel etc.
+>
+> bovenaan wat belangrijk of nieuw is onderaan wat bijkomstig is.
+### Gedeelde Ruimte
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
+### Persoonlijke toolkit
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
+![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
+### Interactie met de wereld
+
