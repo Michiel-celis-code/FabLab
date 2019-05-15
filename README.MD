@@ -27,6 +27,7 @@
 
 # Fablab Social Credits
 > **fablabgenk.be** wordt binnekort een sociaal interactief platform.
+>
 > Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
 > Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
 
@@ -73,9 +74,13 @@ ___
 ### Machine reserveren :
 
 > Minstends 24u op voorhand, en vooraf betaald, niet tijdig (15min eerder) lokaal aanmelden steld de machine vrij voor 30min die doorlopend zijn tot aanmelding.
+>
 > Ben je te laat, en meld je je aan, zul je dus 30min moeten wachten om je reservatierecht te kunnen innen.
+>
 > Deze wachtijd wordt uitgebreid wanneer een opdracht die eerder als je aanmelding gestart is nog uitgevoerd wordt door de machine.
+>
 > Zo kunnen anderen de machine toch nog doorgebruiken moest je niet aanwezig kunnen zijn.
+>
 > Wees dus optijd als je reserveerd, of bereid om punten te verspillen.
 ___
 
@@ -135,13 +140,12 @@ ___
 
 # Fablab Social Platform
 > Een Goede user interface heeft geen uitleg nodig, omdat het gebruikt maakt van de gewoontes die je al hebt aangeleerd.
-
+>
 > Daarom laat het ontwerp van de site zich vormen door enkele gewone opdelingen.
-
+>
 > Links komen publieke/gedeelde/openbare elementen of verwijzingen
-
 > Rechts komt wat persoonlijk is.
-
+>
 > bovenaan wat nieuw of belangrijk is onderaan wat bijkomstig is.
 
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
