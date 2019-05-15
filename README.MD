@@ -144,21 +144,21 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
-<details><summary>* Home</summary>
+<details><summary>Home</summary>
 > Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 > De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
 </details>
 
-<details><summary>* Trending</summary>
+<details><summary>Trending</summary>
 > De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
 </details>
 
-> De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
-<details><summary>* Following</summary>
+<details><summary>Following</summary>
 > Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
 </details>
+
 ##### Create
-<details><summary>* Tutorials</summary>
+<details><summary>Tutorials</summary>
 -- ontwerpen / 2D 3D
 -- keuze van prototyping technieken / Limieten per techniek
 -- Keuze van Machine
@@ -166,13 +166,13 @@ ___
 -- Afwerking prototype
 </details>
 
-<details><summary>* Materialen</summary>
+<details><summary>Materialen</summary>
 -- Plaatmaterialen
 -- 
 -- Filament
 </details>
 
-<details><summary>* Machines</summary>
+<details><summary>Machines</summary>
 --
 --
 --
@@ -182,21 +182,21 @@ ___
 </details>
 
 ##### Local
-<details><summary>* Visit</summary>
+<details><summary>Visit</summary>
 </details>
-<details><summary>* Calendar</summary>
+<details><summary>Calendar</summary>
 </details>
-<details><summary>* Contact</summary>
+<details><summary>Contact</summary>
 </details>
 
 ##### Guide
-<details><summary>* Settings</summary>
+<details><summary>Settings</summary>
 </details>
-<details><summary>* Help</summary>
+<details><summary>Help</summary>
 </details>
-<details><summary>* Information</summary>
+<details><summary>Information</summary>
 </details>
-<details><summary>* Feedback</summary>
+<details><summary>Feedback</summary>
 </details>
 
 
