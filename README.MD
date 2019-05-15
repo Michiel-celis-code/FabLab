@@ -135,10 +135,15 @@ ___
 
 # Fablab Social Platform
 > Een Goede user interface heeft geen uitleg nodig, omdat het gebruikt maakt van de gewoontes die je al hebt aangeleerd.
+
 > Daarom laat het ontwerp van de site zich vormen door enkele gewone opdelingen.
+
 > Links komen publieke/gedeelde/openbare elementen of verwijzingen
+
 > Rechts komt wat persoonlijk is.
+
 > bovenaan wat nieuw of belangrijk is onderaan wat bijkomstig is.
+
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
