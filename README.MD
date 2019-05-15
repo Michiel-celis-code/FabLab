@@ -141,9 +141,39 @@ ___
 >
 > bovenaan wat belangrijk of nieuw is onderaan wat bijkomstig is.
 ### Gedeelde Ruimte
+#### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
+##### Feed
+* Home
+* Trending
+* Following
+
+##### Create
+* Tutorials
+* Materials
+* Machines
+
+##### Local
+* Visit
+* Calendar
+* Contact
+
+##### Guide
+* Settings
+* Help
+* Information
+* Feedback
+
+
 ### Persoonlijke toolkit
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
+#### Search
+#### Edit
+#### Chat
+#### Alerts
+#### Profile/Settings
+
+
 ### Interactie met de wereld
 
