@@ -152,6 +152,7 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
+<hr>
 <h6><details><summary>Home</summary>
 Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
@@ -163,6 +164,7 @@ De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige sti
 Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
 </details></h6>
 ##### Create
+<hr>
 <h6><details><summary>Tutorials</summary>
 - ontwerpen / 2D 3D
 - keuze van prototyping technieken / Limieten per techniek
@@ -183,10 +185,12 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 --
 </details></h6>
 ##### Local
+<hr>
 <h6><details><summary>Visit</summary></details></h6>
 <h6><details><summary>Calendar</summary></details></h6>
 <h6><details><summary>Contact</summary></details></h6>
 ##### Guide
+<hr>
 <h6><details><summary>Settings</summary></details></h6>
 <h6><details><summary>Help</summary></details></h6>
 <h6><details><summary>Information</summary></details></h6>
