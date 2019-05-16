@@ -156,70 +156,40 @@ ___
 Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
 </details></h6>
-
 <h6><details><summary>Trending</summary>
 De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
 </details></h6>
-
 <h6><details><summary>Following</summary>
 Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
 </details></h6>
-
 ##### Create
 <h6><details><summary>Tutorials</summary>
-
 - ontwerpen / 2D 3D
 - keuze van prototyping technieken / Limieten per techniek
 - Keuze van Machine
 - Keuze van materialen / Abstract met voorbeelden REF Materialen
 - Afwerking prototype
-
 </details></h6>
-
 <h6><details><summary>Materialen</summary>
-
 - Plaatmaterialen
 - Filament
-
 </details></h6>
-
 <h6><details><summary>Machines</summary>
-
 --
 --
 --
 --
 --
 --
-
 </details></h6>
-
 ##### Local
-<h6><details><summary>Visit</summary>
-
-</details></h6>
-   
-<h6><details><summary>Calendar</summary>
-
-</details></h6>
-
-<h6><details><summary>Contact</summary>
-
-</details></h6>
-
+<h6><details><summary>Visit</summary></details></h6>
+<h6><details><summary>Calendar</summary></details></h6>
+<h6><details><summary>Contact</summary></details></h6>
 ##### Guide
-<h6><details><summary>Settings</summary>
-
-</details></h6>
-
-<h6><details><summary>Help</summary>
-
-</details></h6>
-
-<h6><details><summary>Information</summary>
-
-</details></h6>
-
+<h6><details><summary>Settings</summary></details></h6>
+<h6><details><summary>Help</summary></details></h6>
+<h6><details><summary>Information</summary></details></h6>
 <h6><details><summary>Feedback</summary></details></h6>
 
 
