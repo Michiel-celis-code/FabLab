@@ -163,23 +163,43 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </details></h6>
 <hr>
 <h6><details><summary>Tutorials</summary>
-- ontwerpen / 2D 3D
-- keuze van prototyping technieken / Limieten per techniek
-- Keuze van Machine
-- Keuze van materialen / Abstract met voorbeelden REF Materialen
-- Afwerking prototype
+<ul>
+   <li>ontwerpen / 2D 3D</li>
+   <li>keuze van prototyping technieken / Limieten per techniek</li>
+   <li>Keuze van Machine</li>
+   <li>Keuze van materialen / Abstract met voorbeelden REF Materialen</li>
+   <li>Afwerking prototype</li>
+</ul>
 </details></h6>
 <h6><details><summary>Materialen</summary>
-- Plaatmaterialen
-- Filament
+<ul>
+   <li>Plaatmaterialen</li>
+   <li>Filament</li>
+</ul>
 </details></h6>
 <h6><details><summary>Machines</summary>
---
---
---
---
---
---
+
+<ul>
+   <li>Lasercutters</li>
+   <ul>
+      <li>TROTEC-SPEEDY-100</li>
+      <li>XXX</li>
+   </ul>
+   <li>3D Printers</li>
+   <ul>
+      <li>Ultimaker-2+</li>
+      <li>Ultimaker-3+</li>
+   </ul>
+   <li>Milling</li>
+   <ul>
+      <li>COLINBUS-CNC</li>
+      <li>XXX</li>
+   </ul>
+   <li>Cutting plotter</li>
+   <ul>
+      <li>Roland-Camm-1</li>
+   </ul>
+</ul>
 </details></h6>
 <hr>
 <h6><details><summary>Visit</summary></details></h6>
