@@ -184,8 +184,7 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 --
 --
 </details></h6>
-<h5><b>Local</b></h5>
-<hr>
+<h5><b>Local</b></h5><hr>
 <h6><details><summary>Visit</summary></details></h6>
 <h6><details><summary>Calendar</summary></details></h6>
 <h6><details><summary>Contact</summary></details></h6>
