@@ -176,24 +176,24 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 <ul>
    <li>Plaatmaterialen</li>
    <ul>
-      <li>MDF <h6>Medium-Density Fibreboard</h6></li>
+      <li>MDF <sub>Medium-Density Fibreboard</sub></li>
       <li>Multiplex</li>
-      <li>PMMA <h6>Polymethylmethacrylaat</h6></li>
-      <li>● PE <h6>Polyetheen</h6></li>
-      <li>● PVC <h6>Polyvinylchloride</h6></li>
-      <li>● PC <h6>Polycarbonaat</h6></li>
-      <li>● HPL <h6>High Pressure Laminate</h6></li>
+      <li>PMMA <sub>Polymethylmethacrylaat</sub></li>
+      <li>● PE <sub>Polyetheen</sub></li>
+      <li>● PVC <sub>Polyvinylchloride</sub></li>
+      <li>● PC <sub>Polycarbonaat</sub></li>
+      <li>● HPL <sub>High Pressure Laminate</sub></li>
    </ul>
    <li>Filament</li>
       <ul>
-      <li>ABS <h6>Acrylonitril-butadieen-styreen</h6></li>
-      <li>PLA <h6>polylactide</h6></li>
-      <li>● Nylon <h6>silky material</h6></li>
-      <li>● CPE <h6>Chlorinated polyethylene</h6></li>
-      <li>● PVA <h6>Polyvinyl alcohol</h6></li>
-      <li>● PC <h6>polycarbonate</h6></li>
-      <li>● TPU <h6>Thermoplastic polyurethane</h6></li>  
-      <li>● PP <h6>polypropeen</h6></li> 
+      <li>ABS <sub>Acrylonitril-butadieen-styreen</sub></li>
+      <li>PLA <sub>polylactide</sub></li>
+      <li>● Nylon <sub>silky material</sub></li>
+      <li>● CPE <sub>Chlorinated polyethylene</sub></li>
+      <li>● PVA <sub>Polyvinyl alcohol</sub></li>
+      <li>● PC <sub>polycarbonate</sub></li>
+      <li>● TPU <sub>Thermoplastic polyurethane</sub></li>  
+      <li>● PP <sub>polypropeen</sub></li> 
    </ul>
 </ul>
 </details></h6>
@@ -254,4 +254,3 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 ### Interactie met de wereld
 
 ## Ontwerp
-
