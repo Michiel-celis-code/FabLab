@@ -21,10 +21,11 @@
 >
 > Je zal hier je projecten en creaties kunnen delen om zo anderen te inspireren en hun leerweg ietsje vlotter te maken.
 > Om dit platform volume en dus nut te geven, zullen we de creators moeten aanzetten om hun know-how te delen.
+>
 
 __Oh Nee, social Credits zoals in china !__
 > Geen zorgen,
-> Deze credits zijn geen sociale shiftingstoken of objectiverend ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
+> Deze credits zijn geen sociale shiftingstoken of ratings-getal zoals in black-mirror, maar een verbruiksmiddel.
 > 
 ___
 
@@ -35,19 +36,23 @@ ___
 > Of is jouw project enorm geliked of gedownload ?
 > 
 > Kortweg : Door nuttig te zijn voor anderen, zul je eigen projecten verder kunnen zetten.
+>
 
 ### Een account, Een wallet
 > **Wil je gebruik maken van het lab ? dan zul je een Account moeten aanmaken.**
 > Bij het opstarten van een Account krijg je ```50 Credits```, daarmee kan je direct aan de slag met een groot project.
+>
 
 ### QR app of NFC kaart
 > Heb je geen Smartphone, vraag dan een NFC kaart die aan je account gekoppeld is om de machines te gebruiken.
+>
 
 ![QR NFC](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/QRNFC.png "NFC kaart of QR App")
 ___
 
 ## Credits Verbruiken
 > Wat kost wat ?!?!
+>
 
 |                             | **Cost**        | **Description**                    |
 | :-------------------------- | ---------------:| ----------------------------------:|
@@ -64,7 +69,8 @@ ___
 
 ### Machine reserveren :
 
-> Minstends 24u op voorhand, en vooraf betaald, niet tijdig (15min eerder) lokaal aanmelden steld de machine vrij voor 30min die doorlopend zijn tot aanmelding.
+> Minstends 24u op voorhand, en vooraf gecredit.
+> Niet tijdig (15min eerder) lokaal aanmelden steld de machine vrij voor 30min die doorlopend zijn tot aanmelding.
 >
 > Ben je te laat, en meld je je aan, zul je dus 30min moeten wachten om je reservatierecht te kunnen innen.
 >
@@ -73,6 +79,7 @@ ___
 > Zo kunnen anderen de machine toch nog doorgebruiken moest je niet aanwezig kunnen zijn.
 >
 > Wees dus optijd als je reserveerd, of bereid om punten te verspillen.
+>
 ___
 
 ## Credits verdienen
@@ -96,8 +103,7 @@ ___
 | 50 Posts                    | ```+ 500```     |                                    |
 | 100 Posts                   | ```+ 1000```    |                                    |
 |                                                                                    |
-| Per Jaar lid                | ```+ 50```      | _Niet als creditstatus > 500_      |
-| Per Verjaardag              | ```+ 50```      | _Niet als creditstatus > 500_      |
+| Per Jaar lid                | ```+ 50```      | _Niet als creditstatus > 150_      |
 | ⁪                                                                                   |
 | ▌ **Likes**                 |                 |                                    |
 | per like op jouw post       | ```+ 1```       |                                    |
@@ -140,6 +146,7 @@ ___
 > Rechts komt wat persoonlijk is (bv: Jouw Projecten, of je persoonlijke settings, profiel etc.
 >
 > bovenaan wat belangrijk of nieuw is onderaan wat bijkomstig is.
+>
 
 ### Gedeelde Ruimte
 #### Navigation Drawer
@@ -176,7 +183,6 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 <details><summary>Materialen</summary>
 
 - Plaatmaterialen
-- 
 - Filament
 
 </details>
