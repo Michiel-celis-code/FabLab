@@ -270,7 +270,17 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </details></h6>
 
 ### Interactie met de wereld
+
+> 
 >
->
+
+#### Facebook
+
+#### Instagram
+
+#### Pinterest
+
+#### Behance
+
 
 ## Ontwerp
