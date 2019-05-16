@@ -151,7 +151,7 @@ ___
 ### Gedeelde Ruimte
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
-##### Feed
+<h5><b>Feed</b></h5>
 <hr>
 <h6><details><summary>Home</summary>
 Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
@@ -163,7 +163,7 @@ De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige sti
 <h6><details><summary>Following</summary>
 Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
 </details></h6>
-##### Create
+<h5><b>Create</b></h5>
 <hr>
 <h6><details><summary>Tutorials</summary>
 - ontwerpen / 2D 3D
@@ -184,12 +184,12 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 --
 --
 </details></h6>
-##### Local
+<h5><b>Local</b></h5>
 <hr>
 <h6><details><summary>Visit</summary></details></h6>
 <h6><details><summary>Calendar</summary></details></h6>
 <h6><details><summary>Contact</summary></details></h6>
-##### Guide
+<h5><b>Guide</b></h5>
 <hr>
 <h6><details><summary>Settings</summary></details></h6>
 <h6><details><summary>Help</summary></details></h6>
