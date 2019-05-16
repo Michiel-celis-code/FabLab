@@ -152,11 +152,10 @@ ___
 #### Navigation Drawer
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 ##### Feed
-<details><summary>Home</summary>
-<
+<h5><details><summary>Home</summary>
 Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
 De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
-</details>
+</details></h5>
 
 <details><summary>Trending</summary>
 
