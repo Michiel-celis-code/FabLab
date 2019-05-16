@@ -251,29 +251,33 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
 #### Search
 <hr>
->
+> De Zoekbalk bevind zich bovenaan, en zoekt over heel de site, met standaard settings.
+> In het rechter zijpaneel kan met de zoekopdracht verfijnen, met kan dit openen met op het vergrootglas te klikken met rechtermuisknop(PC) of lang te duwen(SP)
 >
 
 #### Edit
 <hr>
->
+> De Edit tools komen tevoorschijn wanneer men op de pen duwt. Hierin zitten tools voor documentbewerking.
 >
 
 #### Chat
 <hr>
->
+> Hier kan men chatten met andere leden, Peer-to-Peer of in groepen.
 >
 
 #### Alerts
 <hr>
->
+> Een overzicht van relevante gebeurtenissen.
 >
 
 #### Profile/Settings
 <hr>
->
+> Jouw profiel, een overzicht van jouw projecten, notities enz.
 >
 
 ### Interactie met de wereld
+>
+>
 
 ## Ontwerp
+
