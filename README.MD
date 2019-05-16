@@ -153,7 +153,6 @@ ___
 ![Nav <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/NAV.png "Drawer")
 <h6><details><summary>Home</summary>
 Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen content zoals Projecten/Artikels die Eerst worden weergegeven, de site Vult verder aan met populaire content.
-De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
 </details></h6>
 <h6><details><summary>Trending</summary>
 De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
@@ -163,6 +162,7 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </details></h6>
 <hr>
 <h6><details><summary>Tutorials</summary>
+   <p>Korte Tutorials die hoofdpunten overlopen en/of de gebruiker begeleiden met behulp van flowcharts</p>
 <ul>
    <li>ontwerpen / 2D 3D</li>
    <li>keuze van prototyping technieken / Limieten per techniek</li>
@@ -172,9 +172,29 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </ul>
 </details></h6>
 <h6><details><summary>Materialen</summary>
+   <p>Algemene samenvatting van de eigenschappen per materiaal, en overzich van de beshikbare materialen</p>
 <ul>
    <li>Plaatmaterialen</li>
+   <ul>
+      <li>MDF <h6>Medium-Density Fibreboard</h6></li>
+      <li>Multiplex</li>
+      <li>PMMA <h6>Polymethylmethacrylaat</h6></li>
+      <li>● PE <h6>Polyetheen</h6></li>
+      <li>● PVC <h6>Polyvinylchloride</h6></li>
+      <li>● PC <h6>Polycarbonaat</h6></li>
+      <li>● HPL <h6>High Pressure Laminate</h6></li>
+   </ul>
    <li>Filament</li>
+      <ul>
+      <li>ABS <h6>Acrylonitril-butadieen-styreen</h6></li>
+      <li>PLA <h6>polylactide</h6></li>
+      <li>● Nylon <h6>silky material</h6></li>
+      <li>● CPE <h6>Chlorinated polyethylene</h6></li>
+      <li>● PVA <h6>Polyvinyl alcohol</h6></li>
+      <li>● PC <h6>polycarbonate</h6></li>
+      <li>● TPU <h6>Thermoplastic polyurethane</h6></li>  
+      <li>● PP <h6>polypropeen</h6></li> 
+   </ul>
 </ul>
 </details></h6>
 <h6><details><summary>Machines</summary>
