@@ -198,7 +198,8 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </ul>
 </details></h6>
 <h6><details><summary>Machines</summary>
-
+   <p>Overzicht van huidige en komende week (X,X2), en de machines (Y,Y2).
+   Waarin men kan reserveren.</p>
 <ul>
    <li>Lasercutters</li>
    <ul>
@@ -222,34 +223,56 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 </ul>
 </details></h6>
 <hr>
-<h6><details><summary>Visit</summary></details></h6>
-<h6><details><summary>Calendar</summary></details></h6>
-<h6><details><summary>Contact</summary></details></h6>
+<h6><details><summary>Visit</summary>
+   <p>Map van huidige locatie tot Fablab, en fotos van Gebouw/localen, Livestream Cam</p>
+</details></h6>
+<h6><details><summary>Calendar</summary>
+   <p>Huidig en volgend Maandoverzicht Openingsuren/Events</p>
+</details></h6>
+<h6><details><summary>Contact</summary>
+   <p>Contact Card & Direct Chat</p>
+</details></h6>
 <hr>
-<h6><details><summary>Settings</summary></details></h6>
-<h6><details><summary>Help</summary></details></h6>
-<h6><details><summary>Information</summary></details></h6>
-<h6><details><summary>Feedback</summary></details></h6>
-
+<h6><details><summary>Settings</summary>
+   <p>Enkel zichtbaar voor admins, Site Settings</p> 
+</details></h6>
+<h6><details><summary>Help</summary>
+   <p>Uitleg voor het gebruiken van de site/app</p> 
+</details></h6>
+<h6><details><summary>Information</summary>
+   <p>Verdere informatie over fablab</p> 
+</details></h6>
+<h6><details><summary>Feedback</summary>
+   <p>Hier kunnen problemen/ideeen worden voorgesteld zoals in een ideeendoos</p> 
+</details></h6>
 
 ### Persoonlijke toolkit
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
 #### Search
 <hr>
+>
+>
 
 #### Edit
 <hr>
+>
+>
 
 #### Chat
 <hr>
+>
+>
 
 #### Alerts
 <hr>
+>
+>
 
 #### Profile/Settings
 <hr>
-
+>
+>
 
 ### Interactie met de wereld
 
