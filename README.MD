@@ -157,20 +157,16 @@ Hier vind u een samenvatting van wat nieuws en belangrijk is, De Admins Pinnen c
 De Admins bepalen De Structuur en grootte van de automatishe elementen om te bepalen wat extra in het oog moet springen.
 </details></h6>
 
-<details><summary>Trending</summary>
-
+<h6><details><summary>Trending</summary>
 De populairste projecten, Artikels, Tutorials worden hier in Youtube-achtige stijl weergegeven.
+</details></h6>
 
-</details>
-
-<details><summary>Following</summary>
-
+<h6><details><summary>Following</summary>
 Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen die hzij volgt.
-
-</details>
+</details></h6>
 
 ##### Create
-<details><summary>Tutorials</summary>
+<h6><details><summary>Tutorials</summary>
 
 - ontwerpen / 2D 3D
 - keuze van prototyping technieken / Limieten per techniek
@@ -178,15 +174,16 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 - Keuze van materialen / Abstract met voorbeelden REF Materialen
 - Afwerking prototype
 
-</details>
-<details><summary>Materialen</summary>
+</details></h6>
+
+<h6><details><summary>Materialen</summary>
 
 - Plaatmaterialen
 - Filament
 
-</details>
+</details></h6>
 
-<details><summary>Machines</summary>
+<h6><details><summary>Machines</summary>
 
 --
 --
@@ -195,30 +192,35 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 --
 --
 
-</details>
+</details></h6>
 
 ##### Local
-<details><summary>Visit</summary>
+<h6><details><summary>Visit</summary>
 
-</details>
-<details><summary>Calendar</summary>
+</details></h6>
+   
+<h6><details><summary>Calendar</summary>
 
-</details>
-<details><summary>Contact</summary>
+</details></h6>
 
-</details>
+<h6><details><summary>Contact</summary>
+
+</details></h6>
 
 ##### Guide
-<details><summary>Settings</summary>
+<h6><details><summary>Settings</summary>
 
-</details>
-<details><summary>Help</summary>
+</details></h6>
 
-</details>
-<details><summary>Information</summary>
+<h6><details><summary>Help</summary>
 
-</details>
-<details><summary>Feedback</summary></details>
+</details></h6>
+
+<h6><details><summary>Information</summary>
+
+</details></h6>
+
+<h6><details><summary>Feedback</summary></details></h6>
 
 
 ### Persoonlijke toolkit
