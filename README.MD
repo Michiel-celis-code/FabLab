@@ -271,7 +271,7 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 
 ### Interactie met de wereld
 
-> 
+> Via Rss Feed Autom posten op :
 >
 
 #### Facebook
@@ -280,7 +280,10 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 
 #### Pinterest
 
-#### Behance
+#### twitter
 
+#### LinkedIn
+
+#### Behance
 
 ## Ontwerp
