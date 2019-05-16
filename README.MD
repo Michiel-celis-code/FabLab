@@ -249,35 +249,28 @@ Hier vindt de gebruiken content terug over onderwerpen of van personen/groepen d
 ### Persoonlijke toolkit
 ![Tool<](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/EDIT.png "Tools")
 ![Panel <](https://raw.githubusercontent.com/Michiel-celis-code/FabLab/master/PANEL.png "Panel")
-#### Search
-<hr>
-> De Zoekbalk bevind zich bovenaan, en zoekt over heel de site, met standaard settings.
-> In het rechter zijpaneel kan met de zoekopdracht verfijnen, met kan dit openen met op het vergrootglas te klikken met rechtermuisknop(PC) of lang te duwen(SP)
->
+<h6><details><summary>Search</summary>
+   <p>De Zoekbalk bevind zich bovenaan, en zoekt over heel de site, met standaard settings.In het rechter zijpaneel kan met de zoekopdracht verfijnen, met kan dit openen met op het vergrootglas te klikken met rechtermuisknop(PC) of lang te duwen(SP)</p> 
+</details></h6>
 
-#### Edit
-<hr>
-> De Edit tools komen tevoorschijn wanneer men op de pen duwt. Hierin zitten tools voor documentbewerking.
->
+<h6><details><summary>Edit</summary>
+   <p>De Edit tools komen tevoorschijn wanneer men op de pen duwt. Hierin zitten tools voor documentbewerking.</p> 
+</details></h6>
 
-#### Chat
-<hr>
-> Hier kan men chatten met andere leden, Peer-to-Peer of in groepen.
->
+<h6><details><summary>Chat</summary>
+   <p> Hier kan men chatten met andere leden, Peer-to-Peer of in groepen.</p> 
+</details></h6>
 
-#### Alerts
-<hr>
-> Een overzicht van relevante gebeurtenissen.
->
+<h6><details><summary>Alerts</summary>
+   <p>Een overzicht van relevante gebeurtenissen.</p> 
+</details></h6>
 
-#### Profile/Settings
-<hr>
-> Jouw profiel, een overzicht van jouw projecten, notities enz.
->
+<h6><details><summary>Profile/Settings</summary>
+   <p>Jouw profiel, een overzicht van jouw projecten, notities enz.</p> 
+</details></h6>
 
 ### Interactie met de wereld
 >
 >
 
 ## Ontwerp
-
