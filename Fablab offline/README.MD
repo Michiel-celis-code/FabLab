@@ -16,6 +16,6 @@
        - Recycling Point
        - Leftovers
 
-BROWN PLATES
+## BROWN PLATES
 - TECHNIQUES
 - MATERIALS
